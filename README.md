@@ -42,7 +42,7 @@ SkyStore is a modern, animated landing page showcasing cloud storage services. B
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/skystore.git
+https://github.com/panduthegang/SkyStore-LandingPage.git
 ```
 
 2. Install dependencies:
