@@ -128,6 +128,7 @@ export function Hero() {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="bg-white text-[#FA7275] px-6 md:px-8 py-3 md:py-4 rounded-full text-base md:text-lg font-semibold shadow-lg hover:shadow-xl transition-shadow flex items-center gap-2"
+                onClick={() => window.open('https://sky-store-by-harsh-rathod.vercel.app/', '_blank')}
               >
                 Get Started Free
                 <motion.span
