@@ -25,7 +25,7 @@ export function Dashboard() {
         >
           <div className="relative rounded-2xl overflow-hidden shadow-2xl">
             <img
-              src="/public/Dashboard.jpg"
+              src="/Dashboard.jpg"
               alt="SkyStore Dashboard Interface"
               className="w-full h-auto"
             />
